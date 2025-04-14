@@ -1,0 +1,123 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "📺️电视版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/leanback-arm64_v8a-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/tv.png",
+                "version": "2.8.7|64位(推荐)"
+            },
+            {
+                "name": "📺️电视版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/leanback-armeabi_v7a-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/tv.png",
+                "version": "2.8.7|32位"
+            },
+            {
+                "name": "📱手机版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/mobile-arm64_v8a-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/phone.png",
+                "version": "2.8.7|64位(推荐)"
+            },
+            {
+                "name": "📱手机版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/mobile-armeabi_v7a-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/phone.png",
+                "version": "2.8.7|32位"
+            }
+        ]
+    },
+    {
+        "name": "📺️电视版",
+        "list": [
+            {
+                "name": "📺️电视版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/leanback-arm64_v8a-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/tv.png",
+                "version": "2.8.7|64位(推荐)"
+            },
+            {
+                "name": "📺️电视版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/leanback-armeabi_v7a-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/tv.png",
+                "version": "2.8.7|32位"
+            },
+            {
+                "name": "📺️电视版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/海信专版-OK影视-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/tv.png",
+                "version": "2.8.7|海信专版"
+            }
+        ]
+    },
+    {
+        "name": "📱手机版",
+        "list": [
+            {
+                "name": "📱手机版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/mobile-arm64_v8a-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/phone.png",
+                "version": "2.8.7|64位(推荐)"
+            },
+            {
+                "name": "📱手机版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/mobile-armeabi_v7a-2.8.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/phone.png",
+                "version": "2.8.7|32位"
+            }
+        ]
+    },
+    {
+        "name": "👌🏻Pro版",
+        "list": [
+            {
+                "name": "📱手机版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/OK影视Pro-手机版----3.2.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/phone.png",
+                "version": "3.2.7|64位"
+            },
+            {
+                "name": "📺电视版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/OK影视Pro-电视版---3.2.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/tv.png",
+                "version": "3.2.7|32位"
+            },
+            {
+                "name": "🖥️模拟器版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/OKJack/OK影视Pro-手机版--模拟器专版----3.2.7.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/pc.png",
+                "version": "3.2.7|64位"
+            }
+        ]
+    },
+    {
+        "name": "🎧️洛雪音乐",
+        "list": [
+            {
+                "name": "🎧️正式版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/LXMusic/lx-music-mobile-v1.7.0-arm64-v8a.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/luoxue.png",
+                "version": "1.7.0|64位"
+            },
+            {
+                "name": "🎧️正式版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/LXMusic/lx-music-mobile-v1.7.0-armeabi-v7a.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/luoxue.png",
+                "version": "1.7.0|32位"
+            },
+            {
+                "name": "🎧️Bate版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/LXMusic/lx-music-mobile-v1.7.1-beta.3-arm64-v8a.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/luoxue.png",
+                "version": "1.7.1|64位"
+            },
+            {
+                "name": "🎧️Bate版",
+                "url": "http://simonwang.cn:7090/tvbox/appupdate/LXMusic/lx-music-mobile-v1.7.1-beta.3-armeabi-v7a.apk",
+                "icon": "http://simonwang.cn:7090/pg/logo/luoxue.png",
+                "version": "1.7.1|32位"
+            }
+        ]
+    }
+]
