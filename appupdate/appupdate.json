@@ -29,7 +29,7 @@
         ]
     },
     {
-        "name": "📺️电视版",
+        "name": "👌🏻OK影视",
         "list": [
             {
                 "name": "📺️电视版",
@@ -48,12 +48,7 @@
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-OK%E5%BD%B1%E8%A7%86-2.8.7.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tv.png",
                 "version": "2.8.7|海信专版"
-            }
-        ]
-    },
-    {
-        "name": "📱手机版",
-        "list": [
+            },
             {
                 "name": "📱手机版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/mobile-arm64_v8a-2.8.7.apk",
@@ -69,7 +64,7 @@
         ]
     },
     {
-        "name": "👌🏻Pro版",
+        "name": "👌🏻OK影视Pro",
         "list": [
             {
                 "name": "📱手机版",
@@ -92,7 +87,7 @@
         ]
     },
     {
-        "name": "🐝FongMI版",
+        "name": "🐝FongMI影视",
         "list": [
             {
                 "name": "📺️电视版",
@@ -121,7 +116,7 @@
         ]
     },
     {
-        "name": "🕋takagen99版",
+        "name": "🕋takagen99",
         "list": [
             {
                 "name": "📺️通用版",
@@ -150,19 +145,19 @@
         ]
     },
     {
-        "name": "🐧q215613905版",
+        "name": "🐧q215613905",
         "list": [
             {
                 "name": "📺️Python版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/q215613905/TVBox_q215613905_20250410-1602-python.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tv.png",
-                "version": "20250410|1602(推荐)"
+                "version": "20250410-1602|(推荐)"
             },
             {
                 "name": "📺️Java版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/q215613905/TVBox_q215613905_20250410-1602-java.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tv.png",
-                "version": "20250410|1602"
+                "version": "20250410-1602"
             }
         ]
     },
