@@ -1108,6 +1108,14 @@
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "ITV.BETA",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/noproxy/https://itv-list.myukj.cn/list/itv_beta.m3u",
+      "ua": "2724c07262457522",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "FMM.m3u",
       "type": 0,
       "url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
