@@ -1344,7 +1344,6 @@
     {
       "name": "酸奶TV",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/tvbus/yogurtTv.txt",
-      "type": 0,
       "core": {
         "auth": "local://tvbus",
         "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
