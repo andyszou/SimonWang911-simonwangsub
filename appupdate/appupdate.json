@@ -229,13 +229,13 @@
         "list": [
             {
                 "name": "🌏高德地图",
-                "url": "http://simonwang.cn:7099/d/OneDrive/OpenFiles/OpenFiles/Tools/Android%E5%88%B7%E6%9C%BA/%E5%BA%94%E7%94%A8/Auto_8.1.0.600185_release_signed.apk?sign=rSuPdkOYi7tGz9qkkw_E3dX9KyWq5L6XYrc69HhUDAU=:0",
+                "url": "https://mapdownload.autonavi.com/apps/auto/manual/V810/Auto_8.1.0.600185_release_signed.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/gddt.png",
                 "version": "车机版"
             },
             {
                 "name": "🌏百度地图",
-                "url": "http://simonwang.cn:7099/d/OneDrive/OpenFiles/OpenFiles/Tools/Android%E5%88%B7%E6%9C%BA/%E5%BA%94%E7%94%A8/BaiduMapForAuto.apk?sign=6V_aChv8YOZpXtzHR6b7DEnEHYRM--0lwrVQOKhK8V0=:0",
+                "url": "https://downapp.baidu.com/original_new/322/1/1/1745936715759/BaiduMapForAuto.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/bddt.png",
                 "version": "车机版"
             },
