@@ -223,5 +223,28 @@
                 "version": "1.7.1|32位"
             }
         ]
+    },
+    {
+        "name": "🏎️常用车机软件",
+        "list": [
+            {
+                "name": "🌏高德地图",
+                "url": "http://simonwang.cn:7099/d/OneDrive/OpenFiles/OpenFiles/Tools/Android%E5%88%B7%E6%9C%BA/%E5%BA%94%E7%94%A8/Auto_8.1.0.600185_release_signed.apk?sign=rSuPdkOYi7tGz9qkkw_E3dX9KyWq5L6XYrc69HhUDAU=:0",
+                "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/gddt.png",
+                "version": "车机版"
+            },
+            {
+                "name": "🌏百度地图",
+                "url": "http://simonwang.cn:7099/d/OneDrive/OpenFiles/OpenFiles/Tools/Android%E5%88%B7%E6%9C%BA/%E5%BA%94%E7%94%A8/BaiduMapForAuto.apk?sign=6V_aChv8YOZpXtzHR6b7DEnEHYRM--0lwrVQOKhK8V0=:0",
+                "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/bddt.png",
+                "version": "车机版"
+            },
+            {
+                "name": "🌏腾讯地图",
+                "url": "http://simonwang.cn:7099/d/OneDrive/OpenFiles/OpenFiles/Tools/Android%E5%88%B7%E6%9C%BA/%E5%BA%94%E7%94%A8/%E8%85%BE%E8%AE%AF%E6%99%BA%E9%A9%BE%E5%9C%B0%E5%9B%BE.apk?sign=aSM7tuoD7_kQ_IjsJ4yAGkxn84KoMq_9x7Zg_almjh0=:0",
+                "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/txdt.png",
+                "version": "车机版"
+            }
+        ]
     }
 ]
