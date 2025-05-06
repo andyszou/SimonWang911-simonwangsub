@@ -99,6 +99,33 @@
       "jar": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"
     },
     {
+      "key": "木叶",
+      "name": "木叶",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg0939795i0079i487k512jki6g1k6980k9li631344h4455k7k103473i0kh8049hgg4484h0091ggjh2l8ki33lhi2755g07i880jjkh12h73gk35kg35j6hk6g296l5",
+      "jar": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"
+    },
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 1,
+      "ext": "7lj763gg402i794255648kj0hj539g9hl7k6jk52ji",
+      "jar": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045",
+      "jar": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"
+    },
+    {
       "key": "ZXZJ",
       "name": "在线",
       "api": "csp_Zxzj",
@@ -212,38 +239,10 @@
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a"
     },
     {
-      "key": "二三",
-      "name": "二三",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a"
-    },
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a"
-    },
-    {
       "key": "苹果影视",
       "name": "苹果",
       "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a"
-    },
-    {
-      "key": "低端影视",
-      "name": "低端",
-      "type": 3,
-      "api": "csp_Ddys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -273,14 +272,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/XBPQ/永乐影视.json",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a"
-    },
-    {
-      "key": "雪糕影视",
-      "name": "雪糕",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/XBPQ/雪糕影视.json",
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a"
     },
     {
